@@ -1,3 +1,5 @@
+package presentacion;
+
 import presentacion.IngresarPersona;
 
 public class Principal {
